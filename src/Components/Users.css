@@ -1,0 +1,29 @@
+.usersBox {
+    border: 1px solid green;
+    padding: 5px;
+    height: 450px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.usersBox:hover {
+    background-color: green;
+    color: white;
+    font-size: larger;
+    transition: 0.3s;
+}
+
+.label {
+    position: absolute;
+    left: -99999%;
+}
+
+.chartSize{
+    height:450px !important;
+
+}

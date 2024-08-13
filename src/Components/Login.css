@@ -1,0 +1,20 @@
+.loginBody {
+    background-image: url("https://cdn.wallpapersafari.com/2/43/UscYpa.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.loginContainer {
+    /* height: 400px; */
+    min-width: 350px;
+    padding: 15px;
+    background: #ffffff73;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+
+}
